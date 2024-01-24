@@ -1,0 +1,9 @@
+keras_vggface==0.6
+mtcnn==0.1.0
+numpy==1.21.6
+numpy==1.18.5
+opencv_python==4.9.0.80
+Pillow==9.5.0
+Pillow==10.2.0
+scikit_learn==1.0.2
+streamlit==1.23.1
